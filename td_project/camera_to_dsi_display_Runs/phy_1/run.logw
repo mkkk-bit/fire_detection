@@ -4,7 +4,7 @@
    Executable = C:/FPGA/Anlogic/TD_6.2.1_Engineer_6.2.168.116/bin/run.exe
    Built at =   16:32:07 Jun 12 2025
    Run by =     lenovo
-   Run Date =   Tue Oct  6 16:18:10 2026
+   Run Date =   Tue Oct  6 17:22:47 2026
 
    Run on =     LAPTOP-O2QHV7KA
 ============================================================
@@ -17,14 +17,17 @@ PHY-5016 WARNING: PLL clkc is driving an IO without location.
 PHY-5016 WARNING: PLL clkc is not driving a clock-capable IO.
 PHY-5088 WARNING: Clock_Analyzer: Detected 1 buffer(s) clkin net because they drive non-clock sinks. Run "analyze_clock -detail" for more infomation.
 PHY-5088 WARNING: Clock_Analyzer: Detected 1 buffer(s) clkout net because they drive non-clock sinks. Run "analyze_clock -detail" for more infomation.
+PHY-5088 WARNING: Clock_Analyzer: Detected 1 buffer(s) because their regions are different from their drivers. Run "analyze_clock -detail" for more infomation.
 PHY-5088 WARNING: Clock_Analyzer: 3 clock-net(s) because they drive other clock net, may cause clock skew. Run "analyze_clock -detail" for more infomation.
 
 PHY-5079 CRITICAL-WARNING: Marked 1 clock net(s) utilize the local routing resources. Please check log message and the sinks of clock nets.
 PHY-5088 WARNING: Clock_Analyzer: Detected 1 buffer(s) clkin net because they drive non-clock sinks. Run "analyze_clock -detail" for more infomation.
 PHY-5088 WARNING: Clock_Analyzer: Detected 1 buffer(s) clkout net because they drive non-clock sinks. Run "analyze_clock -detail" for more infomation.
+PHY-5088 WARNING: Clock_Analyzer: Detected 1 buffer(s) because their regions are different from their drivers. Run "analyze_clock -detail" for more infomation.
 PHY-5088 WARNING: Clock_Analyzer: 2 clock-net(s) because they drive other clock net, may cause clock skew. Run "analyze_clock -detail" for more infomation.
 
 PHY-5079 CRITICAL-WARNING: Marked 1 clock net(s) utilize the local routing resources. Please check log message and the sinks of clock nets.
 PHY-5088 WARNING: Clock_Analyzer: Detected 1 buffer(s) clkin net because they drive non-clock sinks. Run "analyze_clock -detail" for more infomation.
 PHY-5088 WARNING: Clock_Analyzer: Detected 1 buffer(s) clkout net because they drive non-clock sinks. Run "analyze_clock -detail" for more infomation.
+PHY-5088 WARNING: Clock_Analyzer: Detected 1 buffer(s) because their regions are different from their drivers. Run "analyze_clock -detail" for more infomation.
 PHY-5088 WARNING: Clock_Analyzer: 2 clock-net(s) because they drive other clock net, may cause clock skew. Run "analyze_clock -detail" for more infomation.
